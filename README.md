@@ -10,6 +10,8 @@
 node是项目可以跑起来依赖的核心，它安装的时候建议下载.exe文件，然后复制到某个目录下面（针对windows用户）然后加到环境变量里面；
 
 安装的时候node_modules目录中的内容npm成功安装之后，它的包管理工具的作用使相应的package都安装到node_modules内，这样写项目时候引入js,css文件时路径好定义，如果是全局安装，在c盘用户盘符下不好引入，所以建议在项目目录下使用npm进行包安装及管理；
+
+##下面这是原来的安装说明
 ## Vue Events Bulletin Board
 
 This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-introduction). In the tutorial we build a events bulletin board application and cover the basics of [Vue](http://vuejs.org/).
