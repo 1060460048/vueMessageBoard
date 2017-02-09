@@ -1,4 +1,5 @@
-##这是复制别人的一个项目 如果是新手可能运行的时候可能遇到跟我类似的一些问题，所以把它单独提出来给予相应的说明，让你更容易在本地的把项目跑起来
+##这是复制别人的一个项目源项目的地址是：https://github.com/chenkie/vue-events-bulletin
+之所以复制出来，是因为，如果是新手可能运行的时候可能遇到跟我类似的一些问题，所以把它单独提出来给予相应的说明，让你更容易在本地的把项目跑起来！
 ## Vue Events Bulletin Board
 
 This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-introduction). In the tutorial we build a events bulletin board application and cover the basics of [Vue](http://vuejs.org/).
